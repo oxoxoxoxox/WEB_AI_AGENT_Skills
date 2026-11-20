@@ -10,6 +10,7 @@ This repository is a reusable guide library for personal web projects. Its prima
 - Bugs or unexpected behavior: `debugging/README.md`.
 - Review and completion: `review/README.md`.
 - Session handoff: `memory/README.md`.
+- Korean prose drafting and proofreading: `writing/README.md`; select `humanizer`, `grammar-checker`, or `style-guide` from `.agents/skills/` as needed.
 
 Read only the guides relevant to the request. When working on another project, read that project's own instructions and current code first. Explicit user direction and applicable higher-priority instructions take precedence over library guidance.
 
