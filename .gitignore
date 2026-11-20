@@ -1,0 +1,11 @@
+# Local upstream checkout used to refresh the reference snapshot
+/.superpowers-source/
+# Personal project context, never part of the reusable library
+/local/
+.env
+.env.*
+!.env.example
+node_modules/
+__pycache__/
+.DS_Store
+Thumbs.db
